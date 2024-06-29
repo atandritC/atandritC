@@ -10,9 +10,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=atandritC&show_icons=true&theme=radical)<br/>
-![](https://streak-stats.demolab.com/?user=atandritC&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atandritC&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=atandrit&show_icons=true&theme=radical)<br/>
+![](https://streak-stats.demolab.com/?user=atandrit&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atandrit&layout=compact&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
