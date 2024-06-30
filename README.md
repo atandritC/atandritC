@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Software Engineer sharing my learnings and projects in tech<br>👩🏻‍🎓 Studied Computer Science at the SRM Institute of Science and Technology (SRMIST), Kattankulathur
+👨🏻‍💻 Software Engineer sharing my learnings and projects in tech<br>👨🏻‍🎓 Studied Computer Science at the SRM Institute of Science and Technology (SRMIST), Kattankulathur
 
 
 ## 🌐 Socials:
