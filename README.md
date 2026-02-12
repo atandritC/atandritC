@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/767581924620238858)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/atandrit._)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atandrit-chatterjee)
-[![](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/languorous_exe)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logoColor=white)](https://x.com/languorous_exe)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%23FF6B6B.svg?style=for-the-badge&logo=c&logoColor=white)
