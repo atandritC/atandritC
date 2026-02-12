@@ -27,7 +27,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
-# 📊 Codeforces Stats:
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=atandritc&theme=dracula)](https://codeforces.com/profile/atandritc)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
