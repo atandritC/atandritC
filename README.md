@@ -1,6 +1,6 @@
 # 💫 About Me:
-👨🏻‍💻 Software Engineer sharing my learnings and projects in tech<br>👨🏻‍🎓 Studied Computer Science at the SRM Institute of Science and Technology (SRMIST), Kattankulathur
-
+👨🏻‍💻 Software Engineer sharing my learnings and projects in tech<br>
+👨🏻‍🎓 Studied Computer Science at the SRM Institute of Science and Technology (SRMIST), Kattankulathur
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/767581924620238858)
@@ -19,10 +19,14 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📈 GitHub Stats:
-![](https://github-readme-activity-graph.vercel.app/graph?username=atandritC&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=atandritC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=atandritC&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atandritC&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=atandritC&theme=dracula&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api?username=atandritC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=atandritC&theme=dracula&include_all_commits=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atandritC&layout=compact&theme=dracula)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
