@@ -18,7 +18,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📈 GitHub Stats:
+# 📈 Contribution Activity:
 
 ![Snake animation](https://raw.githubusercontent.com/atandritC/atandritC/output/github-contribution-grid-snake-dark.svg)
 
