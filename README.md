@@ -20,7 +20,7 @@
 
 # 📈 GitHub Stats:
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=atandritC&theme=dracula&hide_border=true)
+![Snake animation](https://raw.githubusercontent.com/atandritC/atandritC/output/github-contribution-grid-snake-dark.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=atandritC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
