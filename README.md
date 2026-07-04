@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-👨🏻‍💻 Associate Software Engineer at Amdocs, building Java-based telecom workflow automation<br>
-🌱 Currently deepening my backend skills with Spring Boot, Spring Data JPA, and Hibernate<br>
+👨🏻‍💻 Associate Software Engineer building Java-based backend systems & automation<br>
+🌱 Deepening my backend skills with Spring Boot, Spring Security, Spring Data JPA & Hibernate<br>
 👨🏻‍🎓 Computer Science graduate from SRM Institute of Science and Technology (SRMIST), Kattankulathur<br>
 ✍️ Sharing my learnings and projects in Java backend development
 
@@ -17,9 +17,10 @@
 ![Java](https://img.shields.io/badge/Java-%23FF9800.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend (working with / learning)
+### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
@@ -27,8 +28,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234793BD.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+### Testing
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📈 Contribution Activity:
