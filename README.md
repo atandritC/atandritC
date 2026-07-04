@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👨🏻‍💻 Software Engineer building Java-based backend systems & automation<br>
+👨🏻‍💻 Software Engineer building scalable Java backend applications<br>
 🌱 Deepening my backend skills with Spring Boot, Spring Security, Spring Data JPA & Hibernate<br>
 👨🏻‍🎓 Computer Science graduate from SRM Institute of Science and Technology (SRMIST), Kattankulathur<br>
 ✍️ Sharing my learnings and projects in Java backend development
