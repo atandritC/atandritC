@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-👨🏻‍💻 Software Engineer building scalable Java backend applications<br>
-🌱 Deepening my backend skills with Spring Boot, Spring Security, Spring Data JPA & Hibernate<br>
-👨🏻‍🎓 Computer Science graduate from SRM Institute of Science and Technology (SRMIST), Kattankulathur<br>
-✍️ Sharing my learnings and projects in Java backend development
+- Software Engineer building scalable Java backend applications<br>
+- Deepening my backend skills with Spring Boot, Spring Security, Spring Data JPA & Hibernate<br>
+- Computer Science graduate from SRM Institute of Science and Technology (SRMIST), Kattankulathur<br>
+- Sharing my learnings and projects in Java backend development
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/767581924620238858)
