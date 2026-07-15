@@ -1,85 +1,44 @@
-<h1 align="center">Hi 👋, I'm Atandrit Chatterjee</h1>
-<p align="center">
-  Software Engineer focused on building scalable backend applications using Java and the Spring ecosystem.
-</p>
+<div align="center">
 
-- Building production-ready backend services with Java and Spring Boot
-- Exploring authentication, authorization, and secure API design with Spring Security
-- Working with relational databases and ORM technologies including PostgreSQL, MySQL, and Hibernate
-- Computer Science graduate from SRM Institute of Science and Technology (SRMIST)
-- Sharing projects and learnings from my backend engineering journey
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atandritC/atandritC/main/assets/dark/header-v1.svg"/><img src="https://raw.githubusercontent.com/atandritC/atandritC/main/assets/header-v1.svg" alt="Atandrit Chatterjee"/></picture>
 
-## Connect with Me
+<a href="https://linkedin.com/in/atandrit-chatterjee"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
+<a href="https://instagram.com/atandrit._"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/INSTAGRAM-0d1117?style=flat-square&logo=instagram&logoColor=ffffff"/><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=flat-square&logo=instagram&logoColor=000000" alt="Instagram"/></picture></a>
+<a href="https://x.com/languorous_exe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=ffffff"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square&logo=x&logoColor=000000" alt="X"/></picture></a>
+<a href="https://discord.com/users/767581924620238858"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DISCORD-0d1117?style=flat-square&logo=discord&logoColor=ffffff"/><img src="https://img.shields.io/badge/DISCORD-ffffff?style=flat-square&logo=discord&logoColor=000000" alt="Discord"/></picture></a>
 
-<p align="left">
-  <a href="https://linkedin.com/in/atandrit-chatterjee" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/atandrit._" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/languorous_exe" target="_blank">
-    <img src="https://cdn.simpleicons.org/x" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/767581924620238858" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="48" />
-  </a>
-</p>
+</div>
 
-## Tech Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atandritC/atandritC/main/assets/dark/s01.svg"/><img src="https://raw.githubusercontent.com/atandritC/atandritC/main/assets/s01.svg" alt="01 - whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atandritC/atandritC/main/assets/dark/whoami.svg"/><img src="https://raw.githubusercontent.com/atandritC/atandritC/main/assets/whoami.svg" alt="About Atandrit Chatterjee"/></picture>
 
-### Languages
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atandritC/atandritC/main/assets/dark/s02.svg"/><img src="https://raw.githubusercontent.com/atandritC/atandritC/main/assets/s02.svg" alt="02 - stack"/></picture>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,postgres" />
-</p>
+<div align="center">
 
-### Backend
+<img src="https://skillicons.dev/icons?i=java" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=spring,maven" height="48" />&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=hibernate" height="48" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" height="48" />&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=junit,mockito" height="48" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman" height="48" />&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=swagger,jira,dbeaver" height="48" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,maven" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=hibernate" height="48" />
-</p>
+</div>
 
-### Databases
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atandritC/atandritC/main/assets/dark/s03.svg"/><img src="https://raw.githubusercontent.com/atandritC/atandritC/main/assets/s03.svg" alt="03 - telemetry"/></picture>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
+<div align="center">
 
-### Testing
+<img src="https://raw.githubusercontent.com/atandritC/atandritC/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=junit,mockito" height="48" />
-</p>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=atandritC&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atandritC&layout=compact&theme=transparent&hide_border=true" />
 
-### DevOps & Tools
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atandritC&theme=transparent&hide_border=true" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger,jira,dbeaver" height="48" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=atandritC&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=atandritC&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity" /></picture>
 
-## GitHub Activity
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atandritC/atandritC/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atandritC&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atandritC&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atandritC&theme=transparent&hide_border=true" />
-</p>
-
-## Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atandritC/atandritC/main/assets/dark/footer.svg"/><img src="https://raw.githubusercontent.com/atandritC/atandritC/main/assets/footer.svg" alt="Current status"/></picture>
