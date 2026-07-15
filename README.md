@@ -1,55 +1,85 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Atandrit Chatterjee</h1>
+<p align="center">
+  Software Engineer focused on building scalable backend applications using Java and the Spring ecosystem.
+</p>
 
-- Software Engineer building scalable Java backend applications<br>
-- Deepening my backend skills with Spring Boot, Spring Security, Spring Data JPA & Hibernate<br>
-- Computer Science graduate from SRM Institute of Science and Technology (SRMIST), Kattankulathur<br>
-- Sharing my learnings and projects in Java backend development
+- Building production-ready backend services with Java and Spring Boot
+- Exploring authentication, authorization, and secure API design with Spring Security
+- Working with relational databases and ORM technologies including PostgreSQL, MySQL, and Hibernate
+- Computer Science graduate from SRM Institute of Science and Technology (SRMIST)
+- Sharing projects and learnings from my backend engineering journey
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/767581924620238858)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/atandrit._)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atandrit-chatterjee)
-[![X](https://img.shields.io/badge/-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/languorous_exe)
+## Connect with Me
 
-# 💻 Tech Stack:
+<p align="left">
+  <a href="https://linkedin.com/in/atandrit-chatterjee" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/atandrit._" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/languorous_exe" target="_blank">
+    <img src="https://cdn.simpleicons.org/x" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/767581924620238858" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="48" />
+  </a>
+</p>
+
+## Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-%23FF9800.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,postgres" />
+</p>
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,maven" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=hibernate" height="48" />
+</p>
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234793BD.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
 ### Testing
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge)
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=junit,mockito" height="48" />
+</p>
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# 📈 Contribution Activity:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger,jira,dbeaver" height="48" />
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/atandritC/atandritC/output/github-contribution-grid-snake-dark.svg)
+## GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api?username=atandritC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/atandritC/atandritC/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=atandritC&theme=dracula&include_all_commits=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atandritC&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atandritC&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atandritC&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atandritC&theme=transparent&hide_border=true" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+## Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</p>
