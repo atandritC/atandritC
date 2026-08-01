@@ -74,8 +74,6 @@ $ _
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atandritC&theme=transparent&hide_border=true" />
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=atandritC&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20GRAPH"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=atandritC&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20GRAPH" width="97%" alt="GitHub contribution activity" /></picture>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random dev quote"/></picture>
 
 </div>
